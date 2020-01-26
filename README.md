@@ -1,4 +1,4 @@
-This repository contains the code for Paellel-CRNN, CRNN and LSTM models trained selerately to identify 141 different Brazilian bird genera by their respective songs.
+This repository contains the code for Parallel-CRNN, CRNN and LSTM models trained selerately to identify 141 different Brazilian bird genera by their respective songs.
 
 ## Packages
 * Python 3.7.6
